@@ -215,7 +215,7 @@ const ChatInterface = () => {
                     shadow-lg shadow-red-500/20 overflow-hidden backdrop-blur-sm z-10">
         <div className="absolute top-0 left-0 right-0 bg-red-900/20 p-2 border-b border-red-500 flex items-center">
           <Terminal className="w-5 h-5 text-red-500 mr-2" />
-          <span className="text-red-500 font-mono text-sm">CA: </span>
+          <span className="text-red-500 font-mono text-sm">CA: 3dP59LLLuzWop3e2Zk5K12GY6w5wZekCLBLqs9g3pump </span>
         </div>
 
         <div className="h-full pt-12 pb-16 flex flex-col">
