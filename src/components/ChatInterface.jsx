@@ -149,35 +149,9 @@ const ChatInterface = () => {
         </h1>
         
         <div className="flex justify-center gap-8 mb-2">
-          <a href="https://dexscreener.com" 
-             target="_blank" 
-             rel="noopener noreferrer"
-             className="text-green-500 hover:text-green-400 transition-colors">
-            <img 
-              src="/dex.PNG"
-              alt="dex"
-              className="w-8 h-8 hover:opacity-80 transition-opacity" 
-              style={{ 
-                filter: 'sepia(100%) hue-rotate(-50deg) saturate(200%) brightness(0.8)',
-                boxShadow: '0 0 10px rgba(255, 0, 0, 0.5)'
-              }}
-            />
-          </a>
           
-          <a href="https://x.com" 
-             target="_blank" 
-             rel="noopener noreferrer"
-             className="text-green-500 hover:text-green-400 transition-colors">
-            <img 
-              src="/twitter.PNG"
-              alt="twitter"
-              className="w-8 h-8 hover:opacity-80 transition-opacity"
-              style={{ 
-                filter: 'sepia(100%) hue-rotate(-50deg) saturate(200%) brightness(0.8)',
-                boxShadow: '0 0 10px rgba(255, 0, 0, 0.5)'
-              }}
-            />
-          </a>
+          
+          
 
           <a href="https://t.me/RaineAI_Sol" 
              target="_blank" 
@@ -194,7 +168,7 @@ const ChatInterface = () => {
             />
           </a>
           
-          <a href="https://pump.fun" 
+          <a href="https://pump.fun/coin/3dP59LLLuzWop3e2Zk5K12GY6w5wZekCLBLqs9g3pump" 
              target="_blank" 
              rel="noopener noreferrer"
              className="text-green-500 hover:text-green-400 transition-colors">
