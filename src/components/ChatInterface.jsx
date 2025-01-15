@@ -179,7 +179,7 @@ const ChatInterface = () => {
             />
           </a>
 
-          <a href="https://t.me/" 
+          <a href="https://t.me/RaineAI_Sol" 
              target="_blank" 
              rel="noopener noreferrer"
              className="text-green-500 hover:text-green-400 transition-colors">
